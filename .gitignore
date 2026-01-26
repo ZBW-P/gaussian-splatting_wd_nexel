@@ -1,0 +1,25 @@
+# outputs
+output/
+screenshots/
+*.png
+*.jpg
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# logs / checkpoints
+logs/
+runs/
+wandb/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# build
+build/
+dist/
